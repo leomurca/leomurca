@@ -27,6 +27,7 @@ I'm a dynamic and results-driven software engineer with over 4 years of experien
 
 - LinkedIn: [leonardoamurca](https://www.linkedin.com/in/leonardoamurca/?locale=en_US)
 - Email: [leo@leomurca.xyz](mailto:leo@leomurca.xyz)
+- Personal website: [leomurca.xyz](https://leomurca.xyz)
 
 <!--
 - 👯 I’m looking to collaborate on ...
